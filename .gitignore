@@ -1,0 +1,13 @@
+# binaries that we build
+basketbot-darwin-amd64
+basketbot-darwin-arm64
+basketbot-linux-amd64
+basketbot-linux-arm64
+basketbot-windows-amd64
+basketbot-windows-arm64
+
+# things that tooling creates
+.task
+
+# test sound files
+*.mp3
